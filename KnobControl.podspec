@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0.0"
   s.summary      = "A knob is control like the UISlider, but in a circular form."
   s.description  = "The knob control is a completely customizable widget that can be used in any iOS app. It also plays a little victory fanfare."
-  s.homepage     = "https://github.com/shivanand217/"
+  s.homepage     = "https://github.com/shivanand217/KnobControl.git"
   s.license      = "MIT"
   s.author       = { "Shiv" => "shivakp2111@gmail.com" }
   s.platform     = :ios, "12.0"
